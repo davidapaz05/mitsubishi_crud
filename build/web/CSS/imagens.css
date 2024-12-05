@@ -1,0 +1,64 @@
+#mitsubishi{
+    width: 270px;
+    height: auto;
+}
+
+#icone{
+    width: 20px;
+    height: auto;
+}
+
+#ASX{
+    width: 191px;
+    height: auto;
+    padding: 10px;
+}
+
+#lancer{
+    width: 222px;
+    height: auto;
+    padding: 10px;
+}
+
+#eclipse{
+    width: 191px;
+    height: auto;
+    padding: 10px;
+}
+
+#mirage{
+    width: 234px;
+    left: 10px;
+    height: auto;
+    padding: 10px;
+}
+#icone_consultar{
+    width: 44px;
+    height: auto;
+}
+
+#icone_alterar{
+    width: 44px;
+    height: auto;
+    color: aliceblue;
+}
+
+#icone_excluir{
+    width: 44px;
+    height: auto;
+}
+
+
+.carros{
+    display: flex;          
+    flex-wrap: wrap;       
+    justify-content: center; 
+}
+
+.carros img{
+    margin: 10px;          
+    max-width: 100%;       
+    height: auto;   
+}
+
+
